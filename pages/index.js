@@ -7,7 +7,7 @@ export default function Home() {
   return (
     <div>
       <Head>
-        <title>Kinta-Bali Dog</title>
+        <title>Home - Kinta-Bali Dog</title>
         <meta
           name='description'
           content='Kintamani-Bali Dog adoption platform'
